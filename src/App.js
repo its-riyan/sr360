@@ -10,6 +10,7 @@ export default function App() {
           id="jsv-image"
           alt="Ranger Shoes"
           src="https://www.safetyranger.co.id/@static/kim/panorama/0001.jpg"
+          className="inertia"
         />
       </div>
       <div className="log">

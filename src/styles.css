@@ -7,5 +7,8 @@
   margin-bottom: 5px;
 }
 .inertia {
-  position: absolute;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }

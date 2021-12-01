@@ -1,4 +1,4 @@
-import logo from "./react.png";
+import logo from "./ranger.png";
 import "./styles.css";
 
 export default function App() {
@@ -10,7 +10,7 @@ export default function App() {
           id="jsv-image"
           alt="Ranger Shoes"
           src="https://www.safetyranger.co.id/@static/kim/panorama/0001.jpg"
-          className="inertia"
+          className="Inertia"
         />
       </div>
       <div className="log">

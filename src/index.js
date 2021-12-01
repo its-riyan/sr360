@@ -1,6 +1,7 @@
 import ReactDOM from "react-dom";
 import { StrictMode } from "react";
 import { JavascriptViewer } from "@3dweb/360javascriptviewer";
+
 import App from "./App";
 import log from "./App";
 
